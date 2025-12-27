@@ -1,11 +1,4 @@
-# Flask Web Application Dependencies
+# Flask Web Application Dependencies for Vercel
 Flask==2.3.3
 Flask-CORS==4.0.0
 Werkzeug==2.3.7
-
-# Testing Dependencies (already used in the project)
-pytest==7.4.3
-hypothesis==6.148.8
-
-# Optional: For production deployment
-gunicorn==21.2.0

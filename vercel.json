@@ -4,10 +4,6 @@
     {
       "src": "app.py",
       "use": "@vercel/python"
-    },
-    {
-      "src": "package.json",
-      "use": "@vercel/node"
     }
   ],
   "routes": [
@@ -17,7 +13,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "app.py"
     }
   ],
   "env": {
