@@ -123,7 +123,7 @@ The application is configured for easy deployment on Vercel:
 3. Deploy automatically
 
 ## Live Demo
-🔗 **Live Application**: [Coming Soon - Deploy to get your live link]
+🔗 **Live Application**: https://apt-scheduling-system.vercel.app/
 
 ## Project Structure
 ```
